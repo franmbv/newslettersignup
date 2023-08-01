@@ -28,7 +28,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://newslettersign.netlify.app/)
 
 ## My Process
 
